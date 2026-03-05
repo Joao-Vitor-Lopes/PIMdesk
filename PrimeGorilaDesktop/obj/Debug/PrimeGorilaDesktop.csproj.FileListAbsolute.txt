@@ -1,0 +1,2 @@
+C:\Users\joaos\PrimeGorilaDesktop\obj\Debug\PrimeGorilaDesktop.csproj.AssemblyReference.cache
+C:\Users\joaos\PrimeGorilaDesktop\obj\Debug\PrimeGorilaDesktop.csproj.CoreCompileInputs.cache
